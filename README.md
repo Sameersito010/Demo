@@ -1,1 +1,1 @@
-# foodblog-multi
+# foodblogs-multi
